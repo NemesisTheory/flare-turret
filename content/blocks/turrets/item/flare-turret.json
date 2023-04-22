@@ -4,22 +4,45 @@
   "description": "turet",
   "size": 3,
   "health": 900,
-  "range": 620,
-  "reload": 140,
-  "shootSound": "railgun",
+  "range": 112,
+  "reloadTime": 1.2,
+  "shots": 2,
+  "innacuracy": 20,
+  "recoil": 5,
+  "recoilTime": -3,
+  "maxAmmo": 25,
+  "displayAmmoMultiplier": true,
+  "rotateSpeed": 6,
+  "shootSound": "shootBig",
   "category": "turret",
   "hasPower": true,
   "type": "ItemTurret",
+  "ammoUseEffect": null,
   "requirements": [
-    "copper/1"
+    "copper/120",
+    "graphite/75",
+    "titanium/100",
+    "silicon/20"
   ],
   "consumes": {
-    "power": 1
+    "power": 5.5
   },
   "ammoTypes": {
     "pyratite": {
-      "type": "BasicBulletType",
-      "damage": "1"
-      }
+    "type": "BulletType",
+    "speed": 5,
+    "damage": 40,
+    "ammoMultiplier": 3,
+    "hitSize": 8,
+    "shootEffect": "shootPyraFlame",
+    "smokeEffect": null,
+    "lifetime": 2,
+    "collidesAir": true,
+    "despawnEffect": "fire",
+    "hitEffect": "bang",
+    "pierce": false,
+    "status": "burning",
+    "statusDuration": 1080,
+    "hittable": false
     }
 }
