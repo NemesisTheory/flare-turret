@@ -23,7 +23,8 @@
     "copper/120",
     "graphite/75",
     "titanium/100",
-    "silicon/20"
+    "silicon/50",
+    "thorium/80"
   ],
   "consumes": {
     "power": 5.5,
@@ -35,9 +36,9 @@
     "pyratite": {
       "type": "BulletType",
       "speed": 5,
-      "damage": 105,
+      "damage": 150,
       "ammoMultiplier": 3,
-      "splashDamage": 650,
+      "splashDamage": 750,
       "splashRadius": 96,
       "hitSize": 8,
       "shootEffect": "shootBig",
