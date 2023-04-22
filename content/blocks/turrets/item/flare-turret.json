@@ -29,20 +29,21 @@
   },
   "ammoTypes": {
     "pyratite": {
-    "type": "BulletType",
-    "speed": 5,
-    "damage": 40,
-    "ammoMultiplier": 3,
-    "hitSize": 8,
-    "shootEffect": "shootPyraFlame",
-    "smokeEffect": null,
-    "lifetime": 2,
-    "collidesAir": true,
-    "despawnEffect": "fire",
-    "hitEffect": "bang",
-    "pierce": false,
-    "status": "burning",
-    "statusDuration": 1080,
-    "hittable": false
+      "type": "BulletType",
+      "speed": 5,
+      "damage": 40,
+      "ammoMultiplier": 3,
+      "hitSize": 8,
+      "shootEffect": "shootPyraFlame",
+      "smokeEffect": null,
+      "lifetime": 2,
+      "collidesAir": true,
+      "despawnEffect": "fire",
+      "hitEffect": "bang",
+      "pierce": false,
+      "status": "burning",
+      "statusDuration": 1080,
+      "hittable": false
     }
+  }
 }
