@@ -1,0 +1,25 @@
+{
+  "name": "flare-turret",
+  "localizedName": "Flare",
+  "description": "turet",
+  "size": 3,
+  "health": 900,
+  "range": 620,
+  "reload": 140,
+  "shootSound": "railgun",
+  "category": "turret",
+  "hasPower": true,
+  "type": "ItemTurret",
+  "requirements": [
+    "copper/1"
+  ],
+  "consumes": {
+    "power": 1
+  },
+  "ammoTypes": {
+    "pyratite": {
+      "type": "BasicBulletType",
+      "damage": "1"
+      }
+    }
+}
