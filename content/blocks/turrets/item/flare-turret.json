@@ -49,7 +49,6 @@
       "incendSpread": 18,
       "incendChance": 100,
       "fragOnHit": true,
-      "fragBullet": "MissileBulletType",
       "hittable": true
     }
   }
