@@ -11,6 +11,7 @@
   "recoil": 5,
   "recoilTime": -3,
   "maxAmmo": 25,
+  "coolantMultiplier": 1.5,
   "displayAmmoMultiplier": true,
   "rotateSpeed": 6,
   "shootSound": "shootBig",
@@ -31,11 +32,12 @@
     "pyratite": {
       "type": "BulletType",
       "speed": 5,
-      "damage": 40,
+      "damage": 105,
       "ammoMultiplier": 3,
-      "splashDamage": 105,
+      "splashDamage": 650,
+      "splashRadius": 96,
       "hitSize": 8,
-      "shootEffect": "shootPyraFlame",
+      "shootEffect": "shootBig",
       "smokeEffect": null,
       "lifetime": 85,
       "collidesAir": true,
@@ -45,11 +47,15 @@
       "status": "burning",
       "statusDuration": 1080,
       "makeFire": true,
-      "incendAmount": 10,
-      "incendSpread": 18,
+      "incendAmount": 250,
+      "incendSpread": 80,
       "incendChance": 100,
       "fragOnHit": true,
       "hittable": true
+    },
+  "consumes": {
+    "coolant": {
+      "amount": 0.2
     }
   }
 }
