@@ -26,7 +26,10 @@
     "silicon/20"
   ],
   "consumes": {
-    "power": 5.5
+    "power": 5.5,
+    "coolant": {
+      "amount": 0.2
+    }
   },
   "ammoTypes": {
     "pyratite": {
@@ -52,10 +55,6 @@
       "incendChance": 100,
       "fragOnHit": true,
       "hittable": true
-    },
-  "consumes": {
-    "coolant": {
-      "amount": 0.2
     }
   }
 }
