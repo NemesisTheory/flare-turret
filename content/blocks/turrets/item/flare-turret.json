@@ -37,7 +37,7 @@
       "hitSize": 8,
       "shootEffect": "shootPyraFlame",
       "smokeEffect": null,
-      "lifetime": 3,
+      "lifetime": 85,
       "collidesAir": true,
       "hitEffect": "shootPyraFlame",
       "despawnEffect": "fire",
