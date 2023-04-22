@@ -50,8 +50,8 @@
       "status": "burning",
       "statusDuration": 1080,
       "makeFire": true,
-      "incendAmount": 250,
-      "incendSpread": 80,
+      "incendAmount": 4,
+      "incendSpread": 8,
       "incendChance": 100,
       "fragOnHit": true,
       "hittable": true
