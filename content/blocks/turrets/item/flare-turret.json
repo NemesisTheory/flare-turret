@@ -45,7 +45,7 @@
       "splashDamageRadius": 86,
       "hitSize": 8,
       "width": 3000,
-      "height": 24,
+      "height": 3000,
       "frontColor": "#f8ad42",
       "backColor": "#f68021",
       "shootEffect": "shootBig",
