@@ -1,0 +1,13 @@
+{
+  "name": "flare-item",
+  "localizedName": "Flare",
+  "description": "item",
+  "color": "#f8ad42",
+  "hardness": 5000000,
+  "radioactivity": 5000000,
+  "explosiveness": 5000000,
+  "heatCapacity": 5000000,
+  "conductivity": 5000000,
+  "charge": 5000000,
+  "cost": 1.2
+}
