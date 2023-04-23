@@ -21,10 +21,10 @@
   "type": "ItemTurret",
   "ammoUseEffect": null,
   "requirements": [
-    "copper/520",
-    "graphite/455",
+    "copper/820",
+    "graphite/655",
     "titanium/600",
-    "silicon/250",
+    "silicon/450",
     "thorium/280"
   ],
   "consumes": {
@@ -37,9 +37,9 @@
     "pyratite": {
       "type": "BasicBulletType",
       "speed": 5,
-      "damage": 42,
+      "damage": 35,
       "ammoMultiplier": 3,
-      "splashDamage": 150,
+      "splashDamage": 185,
       "splashDamageRadius": 86,
       "hitSize": 8,
       "wWidth": 18,
