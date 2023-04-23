@@ -44,7 +44,7 @@
       "splashDamage": 185,
       "splashDamageRadius": 86,
       "hitSize": 8,
-      "wWidth": 18,
+      "width": 18,
       "height": 24,
       "frontColor": "#f8ad42",
       "backColor": "#f68021",
