@@ -83,7 +83,7 @@
       "smokeEffect": "fireSmoke",
       "despawnEffect": "fire",
       "pierce": true,
-      "status": "flared",
+      "status": "flare-status",
       "statusDuration": 420,
       "makeFire": true,
       "incendAmount": 1,
