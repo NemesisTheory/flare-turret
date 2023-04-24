@@ -1,0 +1,38 @@
+{
+  "type": "GenericCrafter",
+  "name": "flare-materializer",
+  "localizedName": "Flare",
+  "description": "A machine built from unknown technology that somehow manifests the radiation of thorium and combines it with silicon to materialize the Flare item.",
+  "health": 650,
+  "size": 3,
+  "itemCapacity": 5,
+  "category": "crafting",
+  "hasItems": true,
+  "hasLiquids": false,
+  "hasPower": true,
+   "requirements": [
+    "copper/200",
+    "lead/45",
+    "titanium/60",
+    "graphite/120",
+    "silicon/80",
+    "thorium/75"
+    ],
+  "consumes": {
+    "power": 6.3334,
+    "items": [
+      {
+        "item": "silicon",
+        "amount": 2
+      },
+      {
+        "item": "thorium",
+        "amount": 3
+      },
+    ]
+  },
+  "outputItem": {
+    "item": "flare-item",
+    "amount" 1,
+  ]
+}
