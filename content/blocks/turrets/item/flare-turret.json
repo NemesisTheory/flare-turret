@@ -8,7 +8,7 @@
   "reloadTime": 1.4,
   "shots": 3,
   "innacuracy": 3,
-  "shootCone": 18
+  "shootCone": 18,
   "recoil": 5.2,
   "shake": 1.1,
   "recoilTime": -3,
@@ -21,7 +21,6 @@
   "category": "turret",
   "hasPower": true,
   "type": "ItemTurret",
-  "ammoUseEffect": null,
   "requirements": [
     "copper/820",
     "graphite/655",
@@ -63,6 +62,35 @@
       "incendChance": 0.85,
       "fragOnHit": true,
       "knockback": 0.2,
+      "hittable": true
+    },
+    "flare-item": {
+      "type": "BasicBulletType",
+      "speed": 3,
+      "damage": 150,
+      "ammoMultiplier": 1,
+      "splashDamage": 60,
+      "splashDamageRadius": 45,
+      "hitSize": 4,
+      "width": 12,
+      "height": 16,
+      "frontColor": "#f6e096",
+      "backColor": "#f68021",
+      "shootEffect": "shootBig",
+      "lifetime": 20,
+      "collidesAir": true,
+      "hitEffect": "colorSparkBig",
+      "smokeEffect": "fireSmoke",
+      "despawnEffect": "fire",
+      "pierce": true,
+      "status": "flared",
+      "statusDuration": 420,
+      "makeFire": true,
+      "incendAmount": 1,
+      "incendSpread": 5,
+      "incendChance": 0.85,
+      "fragOnHit": true,
+      "knockback": 0.8,
       "hittable": true
     }
   }
