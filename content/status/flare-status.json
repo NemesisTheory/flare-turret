@@ -2,7 +2,7 @@
   "type": "status",
   "name": "flare-status",
   "localizedName": "Flared",
-  "description": "flared",
+  "description": "status",
   "color": "b100cd",
   "damage": 90,
   "speedMultiplier": 0.8
