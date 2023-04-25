@@ -66,7 +66,7 @@
     },
     "flare-item": {
       "type": "BasicBulletType",
-      "speed": 3,
+      "speed": 5,
       "damage": 150,
       "ammoMultiplier": 1,
       "splashDamage": 60,
@@ -77,7 +77,8 @@
       "frontColor": "#f6e096",
       "backColor": "#f68021",
       "shootEffect": "shootBig",
-      "lifetime": 20,
+      "lifetime": 40,
+      "rangeChange": 200,
       "collidesAir": true,
       "hitEffect": "colorSparkBig",
       "smokeEffect": "fireSmoke",
