@@ -1,0 +1,13 @@
+{
+  "name": "susge-alloy",
+  "localizedName": "Susge Alloy",
+  "description": "what a mischievously suspicious item",
+  "color": "#f8ad42",
+  "hardness": 1,
+  "radioactivity": 2147483647,
+  "explosiveness": 2147483647,
+  "heatCapacity": 2147483647,
+  "conductivity": 2147483647,
+  "charge": 2147483647,
+  "cost": 1.4
+}
