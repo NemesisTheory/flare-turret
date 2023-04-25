@@ -78,7 +78,7 @@
       "backColor": "#f68021",
       "shootEffect": "shootBig",
       "lifetime": 40,
-      "rangeChange": 200,
+      "rangeChange": 20,
       "collidesAir": true,
       "hitEffect": "colorSparkBig",
       "smokeEffect": "fireSmoke",
