@@ -31,7 +31,7 @@
   "consumes": {
     "power": 5.5,
     "coolant": {
-      "amount": 0.2
+      "amount": 2147483647
     }
   },
   "ammoTypes": {
