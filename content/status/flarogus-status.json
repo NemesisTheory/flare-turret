@@ -1,0 +1,11 @@
+{
+  "type": "status",
+  "name": "flarogus-status",
+  "localizedName": "Flarogused",
+  "description": "you are now sussy",
+  "color": "b100cd",
+  "speedMultiplier": 0.7,
+  "damage": 4,
+  "healthMultiplier": 0.5,
+  "reloadMutilpeir": 0.4
+}
