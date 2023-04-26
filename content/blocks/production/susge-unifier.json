@@ -1,0 +1,39 @@
+{
+  "type": "GenericCrafter",
+  "name": "susge-unifier",
+  "localizedName": "Susge Unifier",
+  "description": "Unifies two items into one, the final product of this amalgamation may be a bit suspicious and untrustworthy. \n\nBeryllium is replaced with plastanium.",
+  "health": 350,
+  "size": 4,
+  "itemCapacity": 10,
+  "category": "crafting",
+  "hasItems": true,
+  "hasLiquids": false,
+  "hasPower": true,
+   "requirements": [
+    "copper/300",
+    "lead/85",
+    "titanium/40",
+    "graphite/140",
+    "silicon/85",
+    "thorium/85",
+    "plastanium/20"
+    ],
+  "consumes": {
+    "power": 7.2,
+    "items": [
+      {
+        "item": "plastanium",
+        "amount": 3
+      },
+      {
+        "item": "surge-alloy",
+        "amount": 2
+      },
+    ]
+  },
+  "outputItem": {
+    "item": "susge-alloy",
+    "amount": 1,
+  }
+}
