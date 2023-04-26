@@ -8,6 +8,7 @@
   "explosiveness": 2147483647,
   "heatCapacity": 2147483647,
   "conductivity": 2147483647,
+  "flammability": 1,
   "charge": 2147483647,
   "cost": 1.4
 }
