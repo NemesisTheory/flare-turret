@@ -106,7 +106,7 @@
       "height": 18,
       "frontColor": "#f6e096",
       "backColor": "#f68021",
-      "lifetime": 60,
+      "lifetime": 45,
       "rangeChange": 40,
       "collidesAir": true,
       "hitEffect": "colorSparkBig",
