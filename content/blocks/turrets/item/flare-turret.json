@@ -93,6 +93,36 @@
       "fragOnHit": true,
       "knockback": 0.8,
       "hittable": true
+    },
+    "flarogus-item": {
+      "type": "BasicBulletType",
+      "speed": 12,
+      "damage": 450,
+      "ammoMultiplier": 1,
+      "splashDamage": 765,
+      "splashDamageRadius": 62,
+      "hitSize": 5,
+      "width": 14,
+      "height": 18,
+      "frontColor":
+      "backColor":
+      "lifetime": 60,
+      "rangeChange": 40,
+      "collidesAir": true,
+      "hitEffect": "colorSparkBig",
+      "smokeEffect": "fireSmoke",
+      "despawnEffect": "fire",
+      "pierce": true,
+      "pierceCap": 12,
+      "status": "flarogus-status",
+      "statusDuration": 308,
+      "makeFire": true,
+      "incendAmount": 1,
+      "incendSpread": 6,
+      "incendChance": 0.9,
+      "fragOnHit": true,
+      "knockback": 0.5,
+      "hittable": true
     }
   }
 }
