@@ -1,0 +1,43 @@
+{
+  "type": "GenericCrafter",
+  "name": "flarogus-integrator",
+  "localizedName": "Flarogus Integrator",
+  "description": "Harmonizes the Flare material and the Susge Alloy to create the ultimate substance.",
+  "health": 850,
+  "size": 5,
+  "itemCapacity": 8,
+  "category": "crafting",
+  "hasItems": true,
+  "hasLiquids": false,
+  "hasPower": true,
+   "requirements": [
+    "copper/500",
+    "lead/245",
+    "titanium/260",
+    "graphite/320",
+    "silicon/180",
+    "metaglass/50",
+    "thorium/175",
+    "plastanium/80",
+    "surge-alloy/15",
+    "susge-alloy/30",
+    "flare-item/15"
+    ],
+  "consumes": {
+    "power": 14,
+    "items": [
+      {
+        "item": "flare-item",
+        "amount": 4
+      },
+      {
+        "item": "susge-alloy",
+        "amount": 2
+      },
+    ]
+  },
+  "outputItem": {
+    "item": "flarogus-item",
+    "amount": 1,
+  }
+}
