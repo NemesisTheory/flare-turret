@@ -4,5 +4,6 @@
   "localizedName": "Flared",
   "description": "status",
   "color": "b100cd",
-  "speedMultiplier": 0.15
+  "speedMultiplier": 0.85,
+  "damage": 2
 }
