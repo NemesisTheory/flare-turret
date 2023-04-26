@@ -104,8 +104,8 @@
       "hitSize": 5,
       "width": 14,
       "height": 18,
-      "frontColor":
-      "backColor":
+      "frontColor": "#f6e096",
+      "backColor": "#f68021",
       "lifetime": 60,
       "rangeChange": 40,
       "collidesAir": true,
