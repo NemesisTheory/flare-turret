@@ -1,0 +1,14 @@
+{
+  "name": "flarogus-item",
+  "localizedName": "Flarogus",
+  "description": "Suspicious?",
+  "color": "#f6e096",
+  "hardness": 50,
+  "radioactivity": 2147483647,
+  "explosiveness": 1,
+  "heatCapacity": 1,
+  "conductivity": 1,
+  "flammability": 2147483647
+  "charge": 1,
+  "cost": 1.4
+}
