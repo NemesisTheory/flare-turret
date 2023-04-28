@@ -9,6 +9,7 @@
   "health": 950,
   "itemDuration": 40,
   "liquidCapacity": 45,
+  "itemCapacity": 15,
   "size": 5,
   "powerProduction": 242,
   "consumes": {
