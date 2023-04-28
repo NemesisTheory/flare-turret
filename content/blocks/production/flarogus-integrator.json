@@ -28,11 +28,11 @@
     "items": [
       {
         "item": "flare-item",
-        "amount": 4
+        "amount": 5
       },
       {
         "item": "susge-alloy",
-        "amount": 2
+        "amount": 1
       },
     ]
   },
