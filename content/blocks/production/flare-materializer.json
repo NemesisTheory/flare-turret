@@ -1,8 +1,8 @@
 {
   "type": "GenericCrafter",
   "name": "flare-materializer",
-  "localizedName": "Flare",
-  "description": "A machine built from unknown technology that somehow manifests the radiation of thorium and combines it with silicon to materialize the Flare item.",
+  "localizedName": "Flare Materializer",
+  "description": "A machine built from unknown technology that somehow manifests the radiation of thorium and combines it with silicon to materialize the Flare.",
   "health": 650,
   "size": 3,
   "itemCapacity": 5,
