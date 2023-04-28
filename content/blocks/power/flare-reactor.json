@@ -12,7 +12,6 @@
   "size": 5,
   "powerProduction": 242,
   "consumes": {
-    "power": 21.8,
     "items": {
       "items": [
         {
