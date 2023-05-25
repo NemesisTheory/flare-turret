@@ -5,5 +5,6 @@
   "description": "flare fucker is gone.",
   "version": "1.2.5",
   "minGameVersion": "140",
+  "hideBrowser": true,
   "hidden": "false"
 }
